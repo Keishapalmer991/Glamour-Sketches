@@ -2,6 +2,7 @@
   "name": "glamour_sketches",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://keishapalmer991.github.io/Glamour-Sketches",
   "type": "module",
   "scripts": {
     "dev": "vite",
